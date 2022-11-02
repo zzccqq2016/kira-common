@@ -10,20 +10,10 @@
     <version>1.0.0</version>
 
 
+
     <name>Kira Common</name>
     <description> </description>
 
-    <properties>
-        <spring.boot.version>2.5.4</spring.boot.version>
-    </properties>
-
-    <dependencies>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-web</artifactId>
-            <version>${spring.boot.version}</version>
-        </dependency>
-    </dependencies>
 
 
 

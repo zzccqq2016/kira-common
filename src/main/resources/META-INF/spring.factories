@@ -1,2 +1,2 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-org.kira.common.autoconfigure.CommonControllerAutoConfiguration
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+#org.kira.common.autoconfigure.CommonControllerAutoConfiguration
